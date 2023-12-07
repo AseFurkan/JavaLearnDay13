@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class _03_Switch {
     public static void main(String[] args) {
-        // Girilen bir Ay numarasına göre ayın kaç gün sürdüğünü yazdırınız.
 
         Scanner oku=new Scanner(System.in);
         System.out.print("Ay no=");
@@ -26,7 +25,6 @@ public class _03_Switch {
             default:  System.out.println("hatalı Ay no");
         }
 
-        // 2.yol
         switch (ayNo){
             case 1:
             case 3:

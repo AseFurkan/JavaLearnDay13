@@ -4,10 +4,7 @@ import java.util.Scanner;
 
 public class _02_Switch {
     public static void main(String[] args) {
-        // Girilen bir sayının birler basamağının değerini yazı ile yazdırınız.
-        // 234  -> birler basamağı -> 4  -> dört
-        //  45  -> beş
-        //   6  -> altı
+
 
         Scanner oku=new Scanner(System.in);
         System.out.print("Sayı giriniz=");

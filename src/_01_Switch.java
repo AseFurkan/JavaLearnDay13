@@ -4,8 +4,6 @@ import java.util.Scanner;
 
 public class _01_Switch {
     public static void main(String[] args) {
-        // Daha önce çözdüğünüz hesap makinesi sorusunu,
-        // switch ile çözünüz.
 
         Scanner oku=new Scanner(System.in);
         Scanner okuStr=new Scanner(System.in);

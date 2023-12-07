@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class _08_WhileLoop {
     public static void main(String[] args) {
-     // Kullanıcının gireceği 6 sayıdan tek olanlarının toplamını bulunuz
         Scanner read=new Scanner(System.in);
         int toplam =0;
         int sayac=1;
